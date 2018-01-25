@@ -9,6 +9,7 @@ This plugin will be bundled with the IDE starting from v.1.8.2
 - Create a `tools` folder in your sketchbook, if it doesn't exist yet.
 - Unpack the zip archive into `tools` folder (it will look like `.../Arduino/tools/UnoWiFi/tool/UnoWiFi.jar`)
 - Restart the Arduino IDE.
+- If in the Mac OS, the `tools` folder path at `/Applications/Arduino.app/Contents/Java/tools/`. 
 
 ## Usage
 
